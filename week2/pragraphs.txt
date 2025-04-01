@@ -1,0 +1,37 @@
+page 565
+		DenseNet121 with Harris Hawks Optimization: A Novel Deep Learning Approach for Arabic Sign
+						Language Recognition
+
+This research presents a new method for recognizing Arabic Sign Language (ArSL) using deep learning. The study compares different models like CNNs, EfficientNet, ResNet50, and DenseNet, and improves their performance using Harris Hawks Optimization (HHO). The best results came from DenseNet121 combined with HHO, achieving an impressive 99.79% accuracy on the ArASL2018 dataset (which contains 54,049 images)
+
+				-------------------------------------------------
+
+				 A Survey of OCR in Arabic Language: Applications,
+ 					Techniques, and Challenges
+
+Optical Character Recognition (OCR) extracts text from images or scanned documents and converts it into a machine-readable format. It is widely used for digitizing documents, making them searchable, editable, and more accessible. This paper surveys Arabic OCR, its applications, techniques, and challenges.
+
+Key Points:
+Types of OCR:
+
+Unilingual OCR (supports one language, e.g., Arabic).
+Multilingual OCR (supports multiple languages).
+Offline OCR (processes scanned or printed documents).
+Online OCR (real-time text recognition, e.g., number plate recognition).
+Arabic OCR Challenges:
+
+Arabic is written right to left and has 28 letters, including vowels (ا, و, ي).
+Many letters change shape depending on their position in a word.
+Diacritics and ligatures make recognition complex.
+Lack of large datasets for deep-learning models.
+Future Directions:
+
+Improving recognition of diacritics and complex letter shapes.
+Developing more accurate deep-learning models.
+Enhancing OCR performance for handwritten Arabic text.
+------------------------------------------------------------------------------------------------------------------
+		Recognition of Arabic Air-Written Letters: Machine Learning, Convolutional 
+				Neural Networks, and Optical Character
+					Recognition (OCR) Techniques
+
+This research focuses on air writing, where people write in the air using hand movements. While air-writing recognition is well-studied in English and Chinese, Arabic remains a challenge due to letter connections and handwriting variations. To address this, the study uses deep learning (VGG16, VGG19, SqueezeNet) and machine learning (NNs, RF, KNN, SVM) combined with Optical Character Recognition (OCR) to accurately recognize Arabic letters. The model, trained on the AHAWP dataset, achieved 88.8% accuracy with NN and VGG16. This research can enhance Arabic learning, assist people with disabilities, and improve human-computer interaction.
