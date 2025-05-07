@@ -22,6 +22,7 @@
 #print(y_train.shape)
 #print(data.target_names)
 
+import utils.session
 import os
 import numpy as np
 import kagglehub
